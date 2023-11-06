@@ -1,2 +1,2 @@
-# python_thisandthat
-파이썬으로 데이터 전처리 했던 기록들 
+# python_sql_thisandthat
+파이썬, sql 전처리 연습
